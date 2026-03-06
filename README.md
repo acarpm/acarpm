@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-- 🔭 **En ce moment :** Étudiant en **GE2I** (1ère année). Après deux ans en Licence Info, j'ai décidé de me réorienter pour me rapprocher du matériel et de l'électronique.
-- 🚀 **Passion :** Je suis passionné par l'informatique embarquée, l'électronique et les automatismes.
-- 🛠️ **Engagement :** Membre actif de l'association **CampusFab** (FabLab), où je réalise la plupart de mes projets techniques.
-- 🌱 **Apprentissage :** Ma philosophie est le *"Learning by doing"*. Je n'hésite pas à me lancer dans des domaines inconnus pour apprendre sur le tas, par la pratique et l'expérimentation.
-- 💬 **Discutons de :** Pourquoi l'embarqué est plus fun que la théorie pure, de mes projets au FabLab ou de bidouillage électronique.
-- ⚡ **Fun fact :** Plus le projet me semble impossible au début, plus j'ai envie de le tester !
+- ** Étudiant en **GE2I** (1ère année). Après deux ans en Licence Info, j'ai décidé de me réorienter pour me rapprocher du matériel et de l'électronique.
+- Je suis passionné par l'informatique embarquée, l'électronique et les automatismes.
+- Membre actif de l'association **CampusFab** (FabLab), où je réalise la plupart de mes projets techniques.
+- Ma philosophie est le *"Learning by doing"*. Je n'hésite pas à me lancer dans des domaines inconnus pour apprendre sur le tas, par la pratique et l'expérimentation.
+- Pourquoi l'embarqué est plus fun que la théorie pure, de mes projets au FabLab ou de bidouillage électronique.
+- J'appernds en faisant! 
 
 ---
 
