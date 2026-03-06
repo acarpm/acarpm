@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- ** Étudiant en **GE2I** (1ère année). Après deux ans en Licence Info, j'ai décidé de me réorienter pour me rapprocher du matériel et de l'électronique.
+- Étudiant en **GE2I** (1ère année). Après deux ans en Licence Info, j'ai décidé de me réorienter pour me rapprocher du matériel et de l'électronique.
 - Je suis passionné par l'informatique embarquée, l'électronique et les automatismes.
 - Membre actif de l'association **CampusFab** (FabLab), où je réalise la plupart de mes projets techniques.
 - Ma philosophie est le *"Learning by doing"*. Je n'hésite pas à me lancer dans des domaines inconnus pour apprendre sur le tas, par la pratique et l'expérimentation.
